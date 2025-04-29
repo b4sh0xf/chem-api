@@ -22,3 +22,17 @@
 
 - ORM mongoose, to registrate the elements
 - express
+
+## 🎮 PoC:
+
+```bash
+curl "http://localhost:3000/whoami"
+````
+![image](https://github.com/user-attachments/assets/792b83fe-e629-4968-aa69-1d17e7d9ea80)
+
+```bash
+curl "http://localhost:3000/element/sodium"
+````
+![image](https://github.com/user-attachments/assets/536cfbc3-87b3-487e-a287-ce008f4f0cf4)
+
+
