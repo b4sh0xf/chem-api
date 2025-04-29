@@ -1,0 +1,13 @@
+{
+    "elementname": "sodium",
+    "eletroconf": "[Ne] 3s1",
+    "group": "1",
+    "period": "3º",
+    "elementtype": "alkali metal",
+    "description": "Sodium is a soft, silvery-white, highly reactive metal. It is a member of the alkali metal group and is found in many minerals such as rock salt (NaCl).",
+    "curiosity": "Sodium reacts explosively with water, producing hydrogen gas and heat that can ignite the hydrogen.",
+    "atomicnumber": "11 u",
+    "molarmass": "23 g/mol",
+    "interestingreactions":"2Na + Cl2 → 2NaCl"
+  
+}
